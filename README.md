@@ -7,6 +7,6 @@ pkg update && pkg upgrade
 <br>pkg install git
 <br>pip install requests
 <br>pip install bs4
-<br>git clone
+<br>git clone https://github.com/BLACheat78/proxy.git
 <br>cd proxy
 <br>python proxy_scan.py
